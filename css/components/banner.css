@@ -1,0 +1,22 @@
+.banner {
+  background-image: url(../../images/background.png);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+  display: flex;
+  justify-content: center;
+}
+.container-header > h1 {
+  color:white;
+  font-weight: bold;
+  font-size: 300%;
+  margin: 10px;
+}
+.container-header > p {
+  color:rgb(177, 177, 177);
+  font-weight: bold;
+  font-size: 150%;
+}
+.container {
+  margin: auto;
+}

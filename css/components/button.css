@@ -1,0 +1,12 @@
+.btn-primary {
+  color: white;
+  padding: 20px 30px;
+  border-radius: 50px;
+  font-weight: bold;
+  background: #6AD58B;
+  transition: 0.3s ease;
+
+}
+.btn-primary:hover, .btn-primary:focus {
+  box-shadow: 0px 0px 10px #6AD58B;
+}
